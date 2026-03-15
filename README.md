@@ -15,5 +15,9 @@ Buffs are presented under 5 categories:
 ## Notes
 
 - I had to use some AI made icons to represent guild buffs. And they are ugly. I plan to make a fix at... some point
-
 - Since some foods/utils have the same EffectID, I had to choose. So you may see the image of "my choice" instead of what you actually consumed
+
+## How to Install
+
+- Download the `.zip` file in the last release and extract the content.
+- Copy the content to the root of reffect addon folder (should be `C:\Program Files\Guild Wars 2\addons\reffect` by default)
